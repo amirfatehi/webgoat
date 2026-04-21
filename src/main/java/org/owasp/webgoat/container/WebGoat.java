@@ -86,3 +86,4 @@ public class WebGoat {
     return new RestTemplate();
   }
 }
+
